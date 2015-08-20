@@ -1,4 +1,7 @@
 # Ruby-Tracer
 simple learing ruby project
 
-Запуск: ruby ruby-tracer.rb
+Запуск: 
+
+gem install image-magick
+ruby ruby-tracer.rb
