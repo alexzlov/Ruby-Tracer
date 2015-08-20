@@ -31,8 +31,8 @@ sphere_objects = [
 
 # Источники освещения
 light_sources = [
-  Light.new(Vector[ 500.0, 500.0, 500.0], Color[1.0, 0.0, 1.0]),
-  Light.new(Vector[-500.0, 500.0, 500.0], Color[0.0, 1.0, 1.0]),
+  Light.new(Vector[ 500.0, 500.0, 500.0], Color[0.0, 0.0, 1.0]),
+  Light.new(Vector[-500.0, 500.0, 500.0], Color[0.5, 1.0, 1.0]),
 ]
 
 shaders = [
